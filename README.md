@@ -1,6 +1,4 @@
-# Airport-List
-Airport's names and Airport Codes
- ----------------------------
+var airports = [
 'Aalborg: Aalborg DENMARK (AAL)',
 'Aalesund: Vigra NORWAY (AES)',
 'Aarhus: Tirstrup DENMARK (AAR)',
@@ -2436,4 +2434,4 @@ Airport's names and Airport Codes
 'Zielona Gora: Babimost POLAND (IEG)',
 'Zilina: Zilina SLOVAKIA (ILZ)',
 'Zurich: Zurich International Airport SWITZERLAND (ZRH)'
-
+];
